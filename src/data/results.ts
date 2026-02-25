@@ -487,14 +487,15 @@ export const RESULTS_Keisha_Williams: SimResult[] = [
   },
   {
     id: "keisha37",
-    platform: "The Chi Wiki",
-    displayName: "Keisha Williams | The Chi Wiki - Fandom",
-    snippet: "Keisha Williams is a recurring character in the Showtime series The Chi. She is portrayed as a young woman navigating life on the South Side of Chicago.",
-    urlLike: "the-chi.fandom.com › wiki › Keisha_Williams",
+    platform: "Careerbuilder",
+    displayName: "Keisha Williams - Administrative Assistant",
+    snippet: "View Keisha Williams's professional profile on Careerbuilder. She is an administrative assistant with experience in office management and executive support.",
+    urlLike: "www.careerbuilder.com › profile › keisha-williams",
     discoverability: "Low",
     footprint: "Absent",
     race: "African American",
-    location: "Chicago, IL",
+    location: "",
+    currentRole: "Administrative Assistant",
     imageKey: "avatar7"
   },
   {

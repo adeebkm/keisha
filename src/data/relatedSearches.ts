@@ -6,9 +6,9 @@ export const getRelatedSearches = (searchQuery: string): string[] => {
     'Keisha Williams Facebook',
     'Keisha Williams attorney',
     'Keisha Williams doctor',
-    'Keisha Williams Duke University',
-    'Keisha Williams HR',
-    'Keisha Williams NYCLU',
-    'Keisha Williams real estate'
+    'Keisha Williams teacher',
+    'Keisha Williams nurse',
+    'Keisha Williams real estate',
+    'Keisha Williams marketing'
   ];
 };
