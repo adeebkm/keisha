@@ -9,6 +9,6 @@ export const getRelatedSearches = (searchQuery: string): string[] => {
     'Keisha Williams Duke University',
     'Keisha Williams HR',
     'Keisha Williams NYCLU',
-    'Keisha Williams fraud'
+    'Keisha Williams real estate'
   ];
 };
